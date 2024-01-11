@@ -8,5 +8,7 @@ The application will be available at (http://localhost/grocery/index)
 Access the Grocery Inventory Management UI and test the endpoints.
 
 Endpoints
+
 POST /add_item: Add grocery items to the inventory.
+
 GET /get_inventory: Retrieve all items in the inventory.
