@@ -3,7 +3,7 @@ created two endpoints for a grocery inventory management system - a POST endpoin
 
 Start the Laravel development server:
 php artisan serve
-The application will be available at http://localhost:8000.
+The application will be available at (http://localhost/grocery/index)
 
 Access the Grocery Inventory Management UI and test the endpoints.
 
